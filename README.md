@@ -8,7 +8,7 @@
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FaresDev1&branding=false&show-header=false&style=--bg-color:%23171b20;--badge-bg-color:%23171b20;--badge-text-color:%23ffff" />
 
 ### Languages
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=java,php,html,css,xml,json,yaml,postgresql,mysql,bash,c&includeNames=true)](https://github.com/FaresDev1)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=java,php,html,css,xml,json,yaml,postgresql,mysql,c&includeNames=true)](https://github.com/FaresDev1)
 
 <a href="https://www.nordmc.net">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresDev1&theme=blue-green" alt="Langs" />
