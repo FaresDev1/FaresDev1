@@ -59,6 +59,10 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%235586A4.svg?style=plastic&logo=mysql&logoColor=white"></a>  
+&emsp;
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=plastic&logo=mysql&logoColor=white"></a>  
+&emsp;
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E.svg?style=plastic&logo=mysql&logoColor=white"></a>  	
 </p>
 
  ### 👉 IDEs
@@ -68,6 +72,9 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23ffffff.svg?style=plastic&logo=intellij-idea&logoColor=black" /></a>
+</a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=plastic&logo=intellij-idea&logoColor=black" /></a>	
 </p>
 
  ### 👉 Operating Systems
