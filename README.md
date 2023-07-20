@@ -30,6 +30,10 @@
   <a href="https://www.python.org" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
+ &emsp;
+  <a href="https://www.php.net" target="_blank"> 
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=java&logoColor=white">
+  </a>	
 </p>
 
  ### 👉 Software & Tools
@@ -82,13 +86,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaresDev1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="FaresDev1" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/FaresDev1"><img alt="Fares's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FaresDev1&custom_title=FaresDev1's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  </p> 
 
 
 <br/>
