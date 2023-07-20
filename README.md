@@ -34,6 +34,14 @@
   <a href="https://www.php.net" target="_blank"> 
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=java&logoColor=white">
   </a>	
+&emsp;
+  <a href="https://www.javascript.com" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?style=plastic&logo=java&logoColor=white">
+  </a>	
+&emsp;
+  <a href="" target="_blank"> 
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-239120.svg?style=plastic&logo=java&logoColor=white">
+  </a>		
 </p>
 
  ### 👉 Software & Tools
