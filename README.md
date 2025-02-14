@@ -4,7 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I am a 18 years old guy who love to learn new things and improve his skills.</h4>
+<h5 align="center">I am a 19 years old guy who love to learn new things and improve his skills.</h4>
+<h5 align="center">Fun fact i'm a Faculty of Medicine Student!.</h4>
 <br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=FaresDev1&label=Profile%20views&color=0e75b6&style=plastic" alt="FaresDev1" /> 
