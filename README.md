@@ -11,9 +11,6 @@
 	<img src="https://komarev.com/ghpvc/?username=FaresDev1&label=Profile%20views&color=0e75b6&style=plastic" alt="FaresDev1" /> 
 </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FaresDev1&theme=algolia" alt="FaresDev1" /></p>
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
